@@ -19,4 +19,4 @@ If you make use of this code in your work, please cite the following paper:
 }
 ```
 
-pytorch implementation (https://github.com/zjs123/EvoExplore)
+[pytorch implementation](https://github.com/zjs123/EvoExplore)
