@@ -20,6 +20,4 @@ If you make use of this code in your work, please cite the following paper:
   volume = {251},
   pages = {109234},
   year = {2022}
-}
-}
 ```
